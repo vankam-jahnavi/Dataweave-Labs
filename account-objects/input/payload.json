@@ -1,0 +1,19 @@
+[ 
+{ 
+"ChildAccounts": [ 
+{ 
+"Id": "000183837", 
+"type": "Account", 
+"Name": "Secondary Account 1" 
+}, 
+{ 
+"Id": "002683838", 
+"type": "Account", 
+"Name": "Secondary Account 2" 
+} 
+], 
+"Id": "27383839", 
+"type": "Account", 
+"Name": "Primary Account" 
+} 
+] 
