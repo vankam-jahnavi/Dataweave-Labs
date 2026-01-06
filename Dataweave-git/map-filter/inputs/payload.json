@@ -1,0 +1,20 @@
+[
+    {
+        "name" : "Abc",
+        "place" : "Guntur",
+        "age" : 28,
+        "salary" : 40000
+    },
+    {
+        "name" : "Bbc",
+        "place" : "Guntur",
+        "age" : 29,
+        "salary" : 60000
+    },
+    {
+        "name" : "Cbc",
+        "place" : "Guntur",
+        "age" : 30,
+        "salary" : 50000
+    }
+]
