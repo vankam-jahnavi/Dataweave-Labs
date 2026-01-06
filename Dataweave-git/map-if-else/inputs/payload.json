@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Jahnavi Vankam",
+    "age": 22,
+    "city": "Guntur",
+    "aadhar": 1234,
+    "study": {
+      "college": "sdfg"
+    }
+  },
+  {
+    "name": "Jahnavi Vankam",
+    "age": 22,
+    "city": "Guntur",
+    "pan": 3445,
+    "aadhar": 1234
+  }
+]
