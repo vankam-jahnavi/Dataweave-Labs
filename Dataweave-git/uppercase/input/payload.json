@@ -1,8 +1,0 @@
-{
-    "firstname": "john",
-    "lastname" : {
-        "name1": "Michel"
-    },
-    "oddnumbers": ["1","three","five"],
-    "age": "twenty four"
-}
