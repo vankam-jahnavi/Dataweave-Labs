@@ -2,7 +2,8 @@
 output application/json
 import * from dw::core::Strings
 ---
-payload map ((item, index) -> item mapObject ((value, key, index) -> {
-    (substringBefore(key, "|")) : substringBefore(value,"|"),
-    (substringAfter(key, "|")) : substringAfter (value,"|")
-}) )
+(payload mapObject ((value, key, index) -> {
+    zipCode : substringBefore((payload.zipCode),"-"),
+    pincode : substringAfter((payload.pincode),"-"),
+    name : payload.name filter ((chara, index) -> isAlpha(chara) )
+})) distinctBy ($)
