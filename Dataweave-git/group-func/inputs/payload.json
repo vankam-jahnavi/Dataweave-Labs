@@ -1,0 +1,27 @@
+[
+  {
+    "customerId": "C001",
+    "product": "Widget",
+    "amount": 150
+  },
+  {
+    "customerId": "C002",
+    "product": "Gadget",
+    "amount": 300
+  },
+  {
+    "customerId": "C001",
+    "product": "Gizmo",
+    "amount": 200
+  },
+  {
+    "customerId": "C003",
+    "product": "Widget",
+    "amount": 100
+  },
+  {
+    "customerId": "C002",
+    "product": "Gizmo",
+    "amount": 250
+  }
+]
