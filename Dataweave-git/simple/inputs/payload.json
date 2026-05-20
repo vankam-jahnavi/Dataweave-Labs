@@ -1,0 +1,19 @@
+[
+  {
+    "name": "sambhaji mane",
+    "Year": "2020/2023",
+    "pan": null,
+    "adhar": "1234",
+    "add": {
+      "city": "Pune",
+      "pincode": "1234",
+      "state": "MH"
+    }
+  },
+  {
+    "name": "priya behera",
+    "Year": "2020/2024",
+    "pan": "9876",
+    "adhar": "1234"
+  }
+]
