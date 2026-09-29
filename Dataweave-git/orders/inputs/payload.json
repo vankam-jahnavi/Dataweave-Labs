@@ -1,0 +1,19 @@
+{
+  "orders": [
+    {
+      "orderId": "A100",
+      "customer": "Ravi",
+      "items": [
+        { "sku": "P1", "qty": 2, "price": 10 },
+        { "sku": "P2", "qty": 1, "price": 25 }
+      ]
+    },
+    {
+      "orderId": "A101",
+      "customer": "Sita",
+      "items": [
+        { "sku": "P3", "qty": 5, "price": 4 }
+      ]
+    }
+  ]
+}
