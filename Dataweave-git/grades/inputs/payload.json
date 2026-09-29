@@ -1,0 +1,5 @@
+[
+  { "name": "Ravi", "email": "ravi@x.com", "phone": null,        "score": 82 },
+  { "name": "Sita", "email": null,         "phone": "9999999999", "score": 45 },
+  { "name": "Anu",  "score": 67 }
+]
