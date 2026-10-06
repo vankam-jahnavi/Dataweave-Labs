@@ -1,0 +1,20 @@
+[
+  {
+    "sku": "P1",
+    "qty": 2,
+    "price": 10,
+    "orderId": "A100"
+  },
+  {
+    "sku": "P2",
+    "qty": 1,
+    "price": 25,
+    "orderId": "A100"
+  },
+  {
+    "sku": "P3",
+    "qty": 5,
+    "price": 4,
+    "orderId": "A101"
+  }
+]
