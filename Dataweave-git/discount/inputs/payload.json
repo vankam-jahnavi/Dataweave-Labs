@@ -1,0 +1,39 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Laptop",
+      "category": "Electronics",
+      "price": 1200
+    },
+    {
+      "id": 2,
+      "name": "Shirt",
+      "category": "Apparel",
+      "price": 25
+    },
+    {
+      "id": 3,
+      "name": "Headphones",
+      "category": "Electronics",
+      "price": 100
+    },
+    {
+      "id": 4,
+      "name": "Riders of last Ark",
+      "category": "DVD",
+      "price": 25
+    },
+    {
+      "id": 5,
+      "name": "Riders of last Ark",
+      "category": "dv",
+      "price": 25
+    }
+  ],
+  "discounts": {
+    "Electronics": "10%",
+    "Apparel": "15%",
+    "DVD": "5%"
+  }
+}
