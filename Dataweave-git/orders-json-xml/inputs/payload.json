@@ -1,0 +1,10 @@
+{
+  "order": {
+    "id": "ORD-1001",
+    "customer": "Uday",
+    "items": [
+      { "sku": "A1", "qty": 2 },
+      { "sku": "B2", "qty": 1 }
+    ]
+  }
+}
