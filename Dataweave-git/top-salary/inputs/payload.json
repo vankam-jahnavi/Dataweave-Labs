@@ -1,0 +1,27 @@
+[
+  {
+    "dept": "IT",
+    "name": "A",
+    "salary": 90
+  },
+  {
+    "dept": "IT",
+    "name": "B",
+    "salary": 70
+  },
+  {
+    "dept": "IT",
+    "name": "C",
+    "salary": 80
+  },
+  {
+    "dept": "HR",
+    "name": "D",
+    "salary": 60
+  },
+  {
+    "dept": "HR",
+    "name": "E",
+    "salary": 65
+  }
+]
